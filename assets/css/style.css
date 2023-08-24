@@ -665,9 +665,9 @@ section {
 
 .services .icon-box .icon {
   margin: 0 auto;
-  width: 64px;
-  height: 64px;
-  background: #cc1616;
+  width: 80%;
+  
+  /* background: #cc1616; */
   transition: all 0.3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -684,7 +684,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 
-.services .icon-box .icon::before {
+/* .services .icon-box .icon::before {
   position: absolute;
   content: "";
   left: -8px;
@@ -695,7 +695,7 @@ section {
   transition: all 0.3s ease-out 0s;
   transform: translateZ(-1px);
   z-index: -1;
-}
+} */
 
 .services .icon-box h4 {
   font-weight: 700;
