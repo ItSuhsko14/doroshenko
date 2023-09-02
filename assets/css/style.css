@@ -169,7 +169,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 25px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -576,6 +576,30 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+
+#about .centered {
+  display: flex;
+  justify-content: center;
+}
+#about .btn-get-started {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 10px 28px;
+  transition: 0.5s;
+  border: 2px solid #cc1616;
+  color: #cc1616;
+  margin: 0 auto;
+}
+
+#about .btn-get-started:hover {
+  background: #cc1616;
+  border-color: #cc1616;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
