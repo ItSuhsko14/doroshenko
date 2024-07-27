@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Привіт!
+Я Сушко Андрій розробник програмного забезпечення!
+Цей сайт створений для ведучого святкових заходів - Олександра Дорошенко.
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Якщо Вам також необхідно зробити сайт або розробити програмне забезпечення для Вашого бізнесу, із радістю готовий Вам допомоготи.
+Зв'язатись зі мною можна через електронну пошту itSushkoAndriy@gmail.com.ua
